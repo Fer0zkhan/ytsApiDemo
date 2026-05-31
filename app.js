@@ -1,4 +1,3 @@
-
 let listOfMoviesItem = [];
 
 let list = document.querySelector('.list');
